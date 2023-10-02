@@ -13,7 +13,7 @@ public class SpringServerApplication {
 	@GetMapping("/greet")
 	public String greet(){
 		count++;
-		return "Welcome to spring boot app deployment to AWS!!!";
+		return "Welcome to spring boot app deployment to AWS!!! ";
 	}
 
 	public static void main(String[] args) {
