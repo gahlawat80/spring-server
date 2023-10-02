@@ -36,7 +36,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>spring-aws-deployment-2</finalName>
+		<finalName>spring-aws-deployment</finalName>
 	</build>
 
 </project>
